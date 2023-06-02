@@ -1,4 +1,10 @@
-### Hi there 👋
+### Rather Be Coding!
+
+That is my tagline. It's what I would put on a t-shirt or cap, and wear it. It is what I really prefer to be doing at almost any time.
+
+I can not see a problem, or hear someone discussing a problem, without thinking about how to solve the problem with code. Does that make me a little wierd. Maybe.
+
+
 
 <!--
 **dan-carroll/dan-carroll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
