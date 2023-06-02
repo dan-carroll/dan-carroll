@@ -6,20 +6,24 @@ I can not see a problem, or hear someone discussing a problem, without thinking 
 
 I have discovered that I am a problem solver. 🧩 Puzzles of any kind have gotten me going. As a kid, I always wanted to get the prize out of the Cracker Jack or cereal box, not because I wanted a new gadget or toy, but because I wanted to put whatever it was together. Then I would hand it off to a sibling to play with.
 
-I started my career as an electronic 📻 tech where I learned computers 🖥 from the inside out. Then learned how much fun programming was. And even became the proprietor of my own computer store.
+I started my career as an electronic 📻 tech where I learned computers 🖥 from the inside out. Then learned how much fun 👨‍💻 programming was. And even became the proprietor of my own computer store.
 
 Github was a great idea. Thank you to all who have had a hand in it's creation and evolution. Now if I can only find some open source projects I can sink my teeth into. Coding or documenting.
 
 ### Some Fun Facts
 
-- I was born and raised in the Sunshine State.
-- Started school in Athens, Greece.
-- Wanted desperately to be an astronaut as a kid. Or a magician.
-- Wrestled in high school. And was president of the chess club.
-- Seriously considered being a veterinarian. Before turning to a life in electronics.
-- Was a farmer. A fisherman. Construction worker. Soldier. Cook. Teacher. Businessman. Consultant.
-- Best of all though is being a husband, dad, and granddad.
-- Met my wife in a burger joint. And proposed to her there.
+- 🌞 I was born and raised in the Sunshine State.
+- 🇬🇷 Started school in Athens, Greece.
+- 🧑‍🚀 Wanted desperately to be an astronaut as a kid. 🪄 Or a magician.
+- 📚 Am a bibliophile (book worm).
+- 🤼‍♂️ Wrestled in high school. And was president of the ♟ chess club.
+- 🐶 Seriously considered being a veterinarian. Before turning to a life in 📺 electronics.
+- Swam with alligators 🐊, and sharks.🦈
+- 👨‍🌾 Was a farmer. 🎣🦐 A fisherman. 👷‍♂️ Construction worker. 🪖 Soldier. 👨‍🍳 Cook. 👨‍🏫 Teacher. 👨‍💼 Businessman. 👨‍💻 Consultant.
+- Best of all though is being a 👩‍❤️‍👨 husband, 👨‍👧‍👦 dad, and granddad.
+- 🍔 Met my wife in a burger joint. 👫 And proposed to her there.👰
+- 🥧 I can bake.
+- Would take a joy ride on a 🛸 UFO if asked.
 
 <!--
 **dan-carroll/dan-carroll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
