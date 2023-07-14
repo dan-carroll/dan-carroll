@@ -6,7 +6,7 @@ I can not see a problem, or hear someone discussing a problem, without thinking 
 
 I have discovered that I am a problem solver. 🧩 Puzzles of any kind have gotten me going. As a kid, I always wanted to get the prize out of the Cracker Jack or cereal box, not because I wanted a new gadget or 🪀 toy, but because I wanted to put whatever it was together. Then I would hand it off to a sibling to play with.
 
-I started my career as an electronic 📻 tech where I learned computers 🖥 from the inside out. Then learned how much fun 👨‍💻 programming was. And even became the proprietor of my own computer store.
+I started my career as an electronic 📻 tech where I learned computers 🖥 from the inside out. Then learned how much fun 👨‍💻 programming was. And even became the proprietor of my own computer shop.
 
 Github was a great idea. Thank you to all who have had a hand in it's creation and evolution. Now if I can only find some open source projects I can sink my teeth into. Coding or documenting.
 
